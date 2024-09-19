@@ -1,0 +1,14 @@
+2: Who is the current president of the United States?
+	1. None of the above 
+	2. There is more than one answer 
+	3.Trump
+	4.Obama
+	5.Clinton
+	6.Biden
+3: Who is playing in the NBA?
+	1. None of the above 
+	2. There is more than one answer 
+	3.Messi
+	4.LeBron
+	5.Brady
+	6.Curry
